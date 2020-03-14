@@ -10,6 +10,12 @@
 #### ThreeNodes.js
   vvvv(visual programming language, http://www.vvvvjs.com/) "clone"
   http://idflood.github.io/ThreeNodes.js/index_optimized.html#
+  
+#### Jeeliz Face Filter
+  Javascript/WebGL lightweight face tracking library designed for augmented reality webcam filters. Features : multiple faces detection, rotation, mouth opening. 
+  https://jeeliz.com 
+  https://github.com/jeeliz/jeelizFaceFilter
+  
 
 #### Wagner
   Effects composer for three.js
@@ -35,6 +41,10 @@
   #### google-ar/three.ar.js
   A helper three.js library for building AR web experiences that run in WebARonARKit and WebARonARCore
   https://github.com/google-ar/three.ar.js
+  
+  #### Panolens.js
+  Panolens.js is an event-driven and WebGL based panorama viewer. Lightweight and flexible.
+  https://pchen66.github.io/Panolens/#Example
 
 ## Physics
 
@@ -48,11 +58,18 @@
   Physics plugin for Three.js
   https://github.com/chandlerprall/Physijs
   
-## Graphs & Charts  
+## Data Visualization (Graphs & Charts)
 
 #### Graph-Visualization
   3D graph visualization
   https://github.com/davidpiegza/Graph-Visualization
+
+
+#### giojs
+  A Declarative 3D Globe Data Visualization Library built with Three.js
+  https://giojs.org/
+  https://github.com/syt123450/giojs
+  Examples: https://giojs.org/html/playground.html
 
 ## Experiments
 
@@ -66,3 +83,14 @@
 
 #### Procedural Clouds
   https://tympanus.net/Tutorials/ProceduralClouds/
+  
+#### 3 visualizations based on textual analysis to illustrate an article
+  https://twitter.com/ludovicriffault/status/1220644096261459969
+  
+#### 3D text, PhysicsMenu
+  https://tympanus.net/Tutorials/PhysicsMenu/
+  
+#### Exploding Objects
+  https://tympanus.net/Development/ExplodingObjects/index.html
+  
+
