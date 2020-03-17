@@ -93,11 +93,6 @@
   Create interactive, animated 3d graphs. Surfaces, lines, dots and block styling out of the box.
   https://github.com/visjs/vis-graph3d
   Demo: https://github.com/visjs/vis-graph3d/tree/master/examples/graph3d
-  
-#### jagenjo/rendeer.js
-  Light-weight 3D Scene graph library with renderer in WebGL
-  https://github.com/jagenjo/rendeer.js
-  http://tamats.com/projects/rendeer/examples
 
 #### Graph-Visualization[not maintained]
   3D graph visualization
@@ -245,7 +240,10 @@
   ThreeGraph is an interactive web application for exploring connected networks by means of a 3D graph. An example graph is at http://rockstars.jansson.me.uk. Scroll to the bottom of this page for more info about this graph.
    https://github.com/andreasjansson/ThreeGraph
   
-
+#### jagenjo/rendeer.js
+  Light-weight 3D Scene graph library with renderer in WebGL
+  https://github.com/jagenjo/rendeer.js
+  http://tamats.com/projects/rendeer/examples
 
 
   
